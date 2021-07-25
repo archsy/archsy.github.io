@@ -5,25 +5,6 @@
     <link>https://archsy.github.io/</link>
     <description>Recent content on Archsy</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 25 Jul 2021 11:52:21 -0300</lastBuildDate><atom:link href="https://archsy.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Meu Segundo Post</title>
-      <link>https://archsy.github.io/posts/meu-segundo-post/</link>
-      <pubDate>Sun, 25 Jul 2021 11:52:21 -0300</pubDate>
-      
-      <guid>https://archsy.github.io/posts/meu-segundo-post/</guid>
-      <description>Salve </description>
-    </item>
-    
-    <item>
-      <title>Post Exemplo</title>
-      <link>https://archsy.github.io/posts/post-exemplo/</link>
-      <pubDate>Sun, 25 Jul 2021 11:47:40 -0300</pubDate>
-      
-      <guid>https://archsy.github.io/posts/post-exemplo/</guid>
-      <description>Teste  Exemplo 1  #include &amp;lt;iostream&amp;gt; int main( int argc , char ** argv ){ std::cout &amp;lt;&amp;lt; &amp;#34;Olá, Mundo!&amp;#34; &amp;lt;&amp;lt; &amp;#39;\n&amp;#39;; return 0; } </description>
-    </item>
-    
+    <language>en-us</language><atom:link href="https://archsy.github.io/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
